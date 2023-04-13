@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family= Montserrat :wght@800 & display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family= Nunito :wght@600 & display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family= Rubik :wght@600 & display=swap');
+
+* {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: linear-gradient(to bottom, #012E40, #024959,#024959, #012E40, #012E40)
+}
+nav ul {
+    font-weight: bold;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+nav li {
+    font-family: 'Rubik', sans-serif;
+    padding-top: 10px;
+    padding-right: 80px;
+    margin-bottom: 120px;
+}
+
+.nomevictor {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 90px;
+    margin-left: 100px;
+
+}
+
+.nomesouza {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 90px;
+    margin-top: -130px;
+    margin-left: 110px;
+
+}
+
+h2 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    margin-top: -110PX;
+    margin-left: 228px;
+}
+
+header section img{
+    width: 400px;
+    margin-left: 780px;
+    margin-top: -325px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    margin-bottom: 120px;
+}
+
+.sobre {
+    margin-left: 350px;
+    font-size: 75px;
+}
+
+.sobremim {
+    letter-spacing: 2px;
+    margin-top: -70px;
+    color: white;
+    background-color: #0B6BBF;
+    padding: 20px;
+    border-radius: 15px;
+    width: 555px;
+    height: 305px;
+    margin-left: 360px;
+    box-shadow: rgba(0, 0, 0, 0.25) 10px 30px 40px -12px;
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 210px;
+}
+
+.form {
+    margin-left: 350px;
+    font-size: 75px;
+}
+
+.formacao {
+    letter-spacing: 2px;
+    margin-top: -70px;
+    color: white;
+    background-color: #0B6BBF;
+    padding: 20px;
+    border-radius: 15px;
+    width: 555px;
+    height: 110px;
+    margin-left: 360px;
+    box-shadow: rgba(0, 0, 0, 0.25) 10px 30px 40px -12px;
+    margin-bottom: 200px;
+}
+
+.contato {
+    text-align: center;
+    font-size: 75px;
+    text-decoration: underline;
+}
+
+.contato img {
+    width: 155px;
+    
+}
+
+footer p {
+    margin-top: 80px;
+    text-align: center;
+    font-weight: bold;
+}
+footer img {
+    margin-left: 586px;
+    width: 150px
+}
